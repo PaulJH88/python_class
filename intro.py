@@ -12,8 +12,8 @@ num3 = 10 + 15j
 print(num3, id(num3), type(num3))
 
 #string
-str1 = 'Paul'
-str2 = "Harder"
+str1 = 'First'
+str2 = "Last"
 str3 = """
     Lives in 
 
@@ -21,7 +21,7 @@ str3 = """
 
 str4 = '''
 
-       Kuna
+       City
 '''
 print(str1+str2)
 print(str1+str3+str4)

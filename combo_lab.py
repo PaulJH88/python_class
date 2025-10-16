@@ -31,8 +31,8 @@ class BankAccount:
             
 
 
-ba1 = BankAccount("Paul", 50000, "Checking", 1.25)
-ba2 = BankAccount("Paul", 500000, "Savings", 2.50)
+ba1 = BankAccount("Bob", 50000, "Checking", 1.25)
+ba2 = BankAccount("Bob", 500000, "Savings", 2.50)
 
 bank_accounts = [ba1, ba2]
 

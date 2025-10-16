@@ -1,11 +1,11 @@
 dog = {
-    "name": "Bitsy",
-    "breed": "Chihuahua",
+    "name": "Dodgeball",
+    "breed": "Mastiff",
     "age": 12
 }
 
 print(dog)
-dog["owner"] = "Paul"
+dog["owner"] = "Bob"
 
 print(dog)
 

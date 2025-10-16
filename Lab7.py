@@ -1,8 +1,8 @@
-cities = ["Boise", "Kuna", "Meridian"]
+cities = ["Boston", "New York", "Los Angeles"]
 highlights = {
-            "Zoo": "43.6082, 116.2031",
-            "Park": "43.6109, 116.2206",
-            "River": "43.8207, 117.0260"
+            "Zoo": "32.6082, 100.2031",
+            "Park": "56.6109, 92.2206",
+            "River": "72.8207, 107.0260"
 }
 
 for city in cities:

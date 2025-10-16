@@ -1,4 +1,4 @@
-s_names = ["James", "Jimmy", "Paul", "Trevor", "Donald", "Washington", "Jim", "Joe"]
+s_names = ["James", "Jimmy", "Bob", "Trevor", "Donald", "Washington", "Jim", "Joe"]
 print(s_names)
 
 sorted_names = sorted(s_names)

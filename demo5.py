@@ -25,7 +25,7 @@ else:
 
 if num>=10:                         #nested If
     if marks >= 85:
-        print(num, " is amaing!")
+        print(num, " is amazing!")
     else:
         print(num, "is not amazing")
 else:

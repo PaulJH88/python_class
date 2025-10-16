@@ -1,6 +1,6 @@
 colors = ["Blue", "Red", "Black", "Green", "White"]
 pizza = ["Farmhouse", "Extravagenza", "Cheesy", "Mushroom"]
-city = ["New York", "Chicago", "Sacramanto", "New Jersy"]
+city = ["New York", "Chicago", "Sacramanto", "New Jersey"]
 lists = [colors, pizza, city]
 
 print(lists)
